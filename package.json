@@ -1,0 +1,19 @@
+{
+  "name": "cristales",
+  "version": "1.0.0",
+  "description": "Cristales es un documental interactivo sobre Alvaro Illobre, atleta paralimpico",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielPereiroOtero/Cristales.git"
+  },
+  "author": "Daniel Pereiro Otero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielPereiroOtero/Cristales/issues"
+  },
+  "homepage": "https://github.com/DanielPereiroOtero/Cristales#readme"
+}
